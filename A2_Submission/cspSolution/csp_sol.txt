@@ -1,0 +1,4 @@
+{blue=2, chesterfield=2, coffee=5, dog=4, englishman=3, fox=1, green=5, horse=2, ivory=4, japanese=5, kools=1, lucky-strike=4, milk=3, norwegian=1, old-gold=3, orange-juice=4, parliament=5, red=3, snails=3, spaniard=4, tea=2, ukrainian=2, water=1, yellow=1, zebra=5}
+
+
+The zebra lives in house 5 and water is being drinken in house 1.
